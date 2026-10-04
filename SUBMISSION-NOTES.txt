@@ -1,0 +1,9 @@
+Activity 8 submission notes
+
+1. Repository name: HackerRank-3rdSem-Portfolio
+2. GitHub profile: https://github.com/sanjaypindikoor9
+3. HackerRank profile: https://www.hackerrank.com/profile/sanjaysanjay1481
+4. The supplied profile screenshot shows the Problem Solving 3-Star badge.
+5. Accepted-submission screenshots are included for all five mandatory problems.
+6. C++ solutions are included because the activity lists C++, Java, or Python as supported languages.
+7. Before final submission, push the repository publicly and verify that all evidence files are visible.
